@@ -1,2 +1,2 @@
 # bar
-bbb
+print(hello word)
